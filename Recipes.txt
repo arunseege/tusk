@@ -5,6 +5,12 @@ pasta
 daal
 rice
 
+beans 
+pizza
 
 Thank you
+
+done my changes
+
 final copy
+
