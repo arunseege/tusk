@@ -5,5 +5,7 @@ pasta
 daal
 rice
 
+beans 
+pizza
 
 Thank you
